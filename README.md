@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chuchude
 - 👀 I’m interested in new technology.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and R.
 - 💞️ I’m looking to collaborate on javascript project.
 
 
